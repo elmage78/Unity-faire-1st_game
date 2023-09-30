@@ -1,0 +1,51 @@
+{
+    "LearnFightSword": {
+        "checkpoints": [
+            {
+                "steps": 152622,
+                "file_path": "results\\dad_ate_doggy\\LearnFightSword\\LearnFightSword-152622.onnx",
+                "reward": null,
+                "creation_time": 1694017006.9454238,
+                "auxillary_file_paths": [
+                    "results\\dad_ate_doggy\\LearnFightSword\\LearnFightSword-152622.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 152622,
+            "file_path": "results\\dad_ate_doggy\\LearnFightSword.onnx",
+            "reward": null,
+            "creation_time": 1694017006.9454238,
+            "auxillary_file_paths": [
+                "results\\dad_ate_doggy\\LearnFightSword\\LearnFightSword-152622.pt"
+            ]
+        }
+    },
+    "LearnFightStandard": {
+        "checkpoints": [
+            {
+                "steps": 152732,
+                "file_path": "results\\dad_ate_doggy\\LearnFightStandard\\LearnFightStandard-152732.onnx",
+                "reward": null,
+                "creation_time": 1694017007.0313826,
+                "auxillary_file_paths": [
+                    "results\\dad_ate_doggy\\LearnFightStandard\\LearnFightStandard-152732.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 152732,
+            "file_path": "results\\dad_ate_doggy\\LearnFightStandard.onnx",
+            "reward": null,
+            "creation_time": 1694017007.0313826,
+            "auxillary_file_paths": [
+                "results\\dad_ate_doggy\\LearnFightStandard\\LearnFightStandard-152732.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
